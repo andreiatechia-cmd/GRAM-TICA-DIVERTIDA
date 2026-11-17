@@ -1,0 +1,6 @@
+{
+  "name": "Aprenda Inglês & Português: Jogo da Memória & Quiz com Explicação de Erros",
+  "description": "Jogo educativo bilíngue para iniciantes com Jogo da Memória de 16 pares, Quiz de perguntas e respostas com explicação detalhada dos erros, pronúncia com voz e ranking semanal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
